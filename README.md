@@ -1,4 +1,4 @@
-# VBS-Greeting-to-Telegram
+# VBS -  Send a welcome message to Telegram
 This VBS script created to send push notification messages from Windows to Telegram using  BOT API. 
 The example here created to send a telegram push notification every time the computer starts. This is acts a good morning greeting message and as a simple "alarm" in case someone started the computer while user absence.
 
