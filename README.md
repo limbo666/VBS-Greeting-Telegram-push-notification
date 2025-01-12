@@ -103,3 +103,7 @@ To execute the script automatically when the computer starts:
 * Ensure the system has an active internet connection for the script to communicate with Telegram's API.
 * If logging is enabled (`logEnabled = True`), logs will be saved in `ProcessLog.txt`.
 For further assistance or questions, refer to the Telegram Bot API Documentation.
+
+## Bonus 
+An addition script is available on Bonus folder to use the same communication scheme and send any paased argument to Telegram.
+More info on https://github.com/limbo666/VBS-Greeting-Telegram-push-notification/blob/main/Script/Bonus-Script/README_Bonus.md
