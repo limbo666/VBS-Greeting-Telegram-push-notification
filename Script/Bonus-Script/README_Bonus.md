@@ -1,3 +1,7 @@
+
+# Send To Telegram With Arguments
+This is a bonus script to send any passed argument as message to Telegram
+
 1.  **Command-Line Argument Handling**:
     
     -   The script now checks for command-line arguments using `WScript.Arguments`.
@@ -18,18 +22,10 @@
 
 Run the script with a parameter to send a custom message:
 
-cmd
-
-Copy code
-
-`cscript SendToTelegram.vbs "This is the text to send"` 
+`SendToTelegram.vbs "This is the text to send"` 
 
 #### Sending a Default Message
 
 Run the script without parameters to send the default message:
 
-cmd
-
-Copy code
-
-`cscript SendToTelegram.vbs`
+`SendToTelegram.vbs`
