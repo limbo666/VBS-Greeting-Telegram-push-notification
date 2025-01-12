@@ -89,10 +89,7 @@ To execute the script automatically when the computer starts:
         
     -   Example:
         
-        ruby
-        
-        Copy code
-        
+             
         `https://api.telegram.org/bot123456789:ABCDEF1234567890/getUpdates` 
         
 4.  Look for `"chat":{"id":<chatID>}` in the response. This is your `chatID`.
